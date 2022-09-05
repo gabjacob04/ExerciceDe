@@ -1,0 +1,17 @@
+C:\Users\Client\source\repos\DeExercice\DeExercice\bin\Debug\net6.0-windows\DeExercice.exe
+C:\Users\Client\source\repos\DeExercice\DeExercice\bin\Debug\net6.0-windows\DeExercice.deps.json
+C:\Users\Client\source\repos\DeExercice\DeExercice\bin\Debug\net6.0-windows\DeExercice.runtimeconfig.json
+C:\Users\Client\source\repos\DeExercice\DeExercice\bin\Debug\net6.0-windows\DeExercice.dll
+C:\Users\Client\source\repos\DeExercice\DeExercice\bin\Debug\net6.0-windows\DeExercice.pdb
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.csproj.AssemblyReference.cache
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.Form1.resources
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.csproj.GenerateResource.cache
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.AssemblyInfoInputs.cache
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.AssemblyInfo.cs
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.csproj.CoreCompileInputs.cache
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.dll
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\refint\DeExercice.dll
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.pdb
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\DeExercice.genruntimeconfig.cache
+C:\Users\Client\source\repos\DeExercice\DeExercice\obj\Debug\net6.0-windows\ref\DeExercice.dll
